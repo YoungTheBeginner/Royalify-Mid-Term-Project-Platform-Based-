@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": "ring-001",
+      "name": "The Sovereign's Star-Forged Ring",
+      "price": 4999,
+      "currency": "USD",
+      "desc": "A ring forged from meteoric alloy, set with a single starstone.",
+      "image": "/images/ring.jpg",
+      "limited": false,
+      "stock": 3
+    },
+    {
+      "id": "mantle-001",
+      "name": "The Mantle of Ethereal Reign",
+      "price": 7999,
+      "currency": "USD",
+      "desc": "A luxurious mantle that shimmers with faint aurora.",
+      "image": "/images/mantle.jpg",
+      "limited": false,
+      "stock": 2
+    },
+    {
+      "id": "brooch-001",
+      "name": "The Brooch of the Crested Phoenix",
+      "price": 3499,
+      "currency": "USD",
+      "desc": "An ornate brooch crafted to look like a phoenix in flight.",
+      "image": "/images/brooch.jpg",
+      "limited": false,
+      "stock": 4
+    },
+    {
+      "id": "amulet-001",
+      "name": "The Amulet of Deep Forest Solace",
+      "price": 2999,
+      "currency": "USD",
+      "desc": "An amulet infused with woodland essence for calming presence.",
+      "image": "/images/amulet.jpg",
+      "limited": false,
+      "stock": 5
+    },
+    {
+      "id": "cuff-LE-001",
+      "name": "The Cuff of Frozen Moonlight",
+      "price": 12999,
+      "currency": "USD",
+      "desc": "Limited edition cuff that glows like moonlight trapped in ice.",
+      "image": "/images/cuff.jpg",
+      "limited": true,
+      "stock": 1
+    }
+  ]
+}
